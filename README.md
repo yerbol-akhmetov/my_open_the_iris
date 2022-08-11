@@ -2,19 +2,16 @@
 ***
 
 ## Task
-TODO - What is the problem? And where is the challenge?
+The task is to create jupyter notebook that evaluates different machine learning techniques, such as Naive Bayes, Support Vector Machine, Logistic regression, and etc., on the Iris database.
 
 ## Description
-TODO - How have you solved the problem?
+The problem is solved by 1) loading the dataset, 2) observing its summary, 3) visualizing the features in univariate and multivariate spaces, and 4) building classifiers and evaluation of them using cross-validation technique. 
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
+The project requires no installation. It needs to be executed line-by-line in the jupyter notebook.
 
 ## Usage
-TODO - How does it work?
-```
-./my_project argument1 argument2
-```
+The function developed inside of the jupyter notebook can be used in other projects by copying them, or importing them directly.
 
 ### The Core Team
 
